@@ -1,0 +1,173 @@
+img{
+    width: 20%;
+    height: 25%;
+    float:left;
+    padding-left: 5px;
+}
+.navbar{
+    float: right;
+    display:flex;
+    justify-content: right;
+    text-align: center;
+}
+#about{
+    color: black;
+    text-decoration: none; 
+    padding-right: 15px;
+}
+#how{
+    color: black;
+    text-decoration: none;
+    padding-right: 15px;  
+}
+#why{
+    color: black;
+    text-decoration: none;
+ 
+}
+#h1{
+    color: rgb(5, 5, 80);  
+ }
+#nice{
+    color: green;
+}
+#description{
+    text-align: center;
+}
+#button{
+    text-align: center;
+}
+#chat{
+    background-color: rgb(25, 147, 196);
+  border: none;
+  color:white;
+  padding: 10px 30px;
+  border-radius: 4px;
+  text-align: center;
+}
+#cover{
+    background-image: url(/Images/nice.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+#logo{
+    float: left;
+    display: flex;
+}
+#text{
+    padding-left: 1.5cm;
+    margin-top: 6cm;
+}
+#jack{
+    width: 7%;
+    height: 7%; 
+}
+#fits{
+    width: 5%;
+    height: 5%;
+    padding-left: 30px;
+}
+#smithey{
+    width: 5%;
+    height: 5%;
+    padding-left: 30px;
+}
+#rigwa{
+    width: 7%;
+    height: 7%;
+    padding-left: 30px;
+}
+#first{
+   margin-top: 7cm;
+   float: right;
+   display: flex;
+}
+
+#orders{
+   border-radius: 5px;
+   border-color: white; 
+   background-color: rgba(59, 130, 246, .5);
+   padding-left: 7px;
+   padding-right: 7px;
+   box-sizing: content-box 3px;
+   margin-right: 12px;
+   float: right;
+   display: flex;
+   
+   
+}
+#scan{
+    border-radius: 5px;
+    border-color: white; 
+    background-color: rgba(229,231,235);
+    padding-left: 7px;
+    padding-right: 7px;
+    box-sizing: content-box 3px;
+    margin-right: 12px;
+    float: right;
+   display: flex;
+}
+#active{
+    border-radius: 5px;
+    border-color: white; 
+    background-color: rgb(206, 173, 173);
+    padding-left: 7px;
+    padding-right: 7px;
+    box-sizing: content-box 3px;
+    margin-right: 7px;
+    float: right;
+   display: flex;
+}
+#num3{
+    font-size: larger;
+}
+#num3a{
+    text-decoration: none;
+}
+#head2{
+    margin-top: 5cm ; 
+    padding-left: 1.5cm;  
+}
+#heading{
+    color: rgb(5, 5, 80);
+}
+#see{
+  background-color: rgb(25, 147, 196);
+  border: none;
+  color:white;
+  padding-left: 1.5cm;
+  border-radius: 4px;
+  padding: 10px 30px;
+}
+.goleft{
+    float: right;
+    display: flex; 
+    margin-top: none; 
+    padding-top: none;
+}
+#line{
+    border: 1px solid  rgb(7, 7, 122);
+    background-color: rgb(7, 7, 122);  
+}
+#line2{
+    border:1px solid orangered;
+    background-color:orangered
+}
+#line3{
+    border:1px solid green;
+    background-color: green
+}
+h4{
+   color: rgb(5, 5, 80);
+} 
+.second{
+   margin-right: 12px; 
+}
+.third{
+    margin-right: 12px ; 
+}
+.forth{
+    margin-right: 7px;
+}
